@@ -1,9 +1,5 @@
 def my_hash_creator(:name, "John")
-   => {:name=>"John"}
-  my_hash_creator(:id, 7)
-  => {:id=>7}
-  my_hash_creator("age", 33)
-  => {"age"=>33}
+   
   
 end
 
