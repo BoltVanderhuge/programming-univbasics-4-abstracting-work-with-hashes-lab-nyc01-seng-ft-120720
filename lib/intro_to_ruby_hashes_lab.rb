@@ -1,5 +1,8 @@
 def my_hash_creator(:name, "John")
-   
+   hash = {
+  name: "Lola",
+  breed: "Giant Schnauzer"
+}
   
 end
 
